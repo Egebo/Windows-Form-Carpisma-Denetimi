@@ -1,5 +1,0 @@
-C:\Users\bozca\Desktop\NDP Proje Video.exe
-C:\Users\bozca\Desktop\NDP Proje Video.dll
-C:\Users\bozca\Desktop\NDP Proje Video.deps.json
-C:\Users\bozca\Desktop\NDP Proje Video.runtimeconfig.json
-C:\Users\bozca\Desktop\NDP Proje Video.pdb
